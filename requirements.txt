@@ -1,0 +1,90 @@
+# ===========================
+# LangChain Core
+# ===========================
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# ===========================
+# LangGraph (Multi-Agent)
+# ===========================
+langgraph
+
+# ===========================
+# Mistral
+# ===========================
+langchain-mistralai
+mistralai
+
+# ===========================
+# Search Tool
+# ===========================
+tavily-python
+
+# ===========================
+# Web Scraping
+# ===========================
+beautifulsoup4
+requests
+lxml
+html5lib
+
+# ===========================
+# Environment Variables
+# ===========================
+python-dotenv
+
+# ===========================
+# Data Validation
+# ===========================
+pydantic
+
+# ===========================
+# Token Counting
+# ===========================
+tiktoken
+
+# ===========================
+# Async HTTP
+# ===========================
+aiohttp
+
+# ===========================
+# Utilities
+# ===========================
+typing-extensions
+tenacity
+orjson
+
+# ===========================
+# Logging
+# ===========================
+rich
+colorama
+
+# ===========================
+# Progress Bars
+# ===========================
+tqdm
+
+# ===========================
+# JSON Parsing
+# ===========================
+jsonschema
+
+# ===========================
+# Date & Time
+# ===========================
+python-dateutil
+
+# ===========================
+# Retry Logic
+# ===========================
+backoff
+
+# ===========================
+# Optional Data Handling
+# ===========================
+pandas
+numpy
